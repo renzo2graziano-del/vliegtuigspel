@@ -1,0 +1,6 @@
+{
+  "name": "Vliegtuig Spel",
+  "description": "Een spannend arcade vliegtuig spel met obstakels, munten, power-ups en upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
